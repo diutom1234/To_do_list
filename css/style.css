@@ -1,0 +1,39 @@
+.main{
+	width: 600px;
+	margin: 0 auto;
+}
+.title{
+	width: 100%;
+	height: 80px;
+	background-color: red;
+	padding: 20px 0;
+}
+#input{
+	width: 300px;
+}
+.title h3{
+	color: white;
+	text-align: center;
+}
+.title>div{
+	text-align: center;
+	gap:0;
+}
+table{
+	width: 100%;
+}
+#content{
+	width: 100%;
+}
+.list{
+	width: 100%;
+	height: 30px;
+	background-color: #ccc;
+}
+.list:hover{
+	background-color: #554747;
+}
+.checkbox, .btn{
+	width: 5%;
+	text-align: center;
+}
